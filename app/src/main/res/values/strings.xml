@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sms</string>
+    <string name="click_to_copy_fcm_token">Click to copy fcm token</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825869099757",
+    "firebase_url": "https://sms-sender-8c37e.firebaseio.com",
+    "project_id": "sms-sender-8c37e",
+    "storage_bucket": "sms-sender-8c37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825869099757:android:6849720b84b5330d",
+        "android_client_info": {
+          "package_name": "idea.mahdi.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825869099757-6k4ngbel491lb5r2po2o27kd8vv8b6cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeMYgFVIXaMBF0eCZklsyI5DNc_dMkQqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825869099757-6k4ngbel491lb5r2po2o27kd8vv8b6cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
