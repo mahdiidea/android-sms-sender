@@ -1,4 +1,4 @@
-# Send You Website SMS message with android device
+# This app sends your web messages (sms) by using your Android device
 Server guid (php laravel) :
 
 Create your project on firebase first then add server key and sender Id to project .env file
